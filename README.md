@@ -19,9 +19,13 @@ The Robot Apocalypse Survival System is a Spring Boot application that utilizes 
 
 Features
 •	Register survivors with name, age, gender, ID, last location, and an inventory of resources.
+
 •	Update survivor location with latitude and longitude.
+
 •	Flag survivors as infected based on reports from other survivors.
+
 •	Connect to the Robot CPU system to get a list of all robots and their known locations.
+
 •	Retrieve reports on the percentage of infected and non-infected survivors, lists of infected and non-infected survivors, and a list of robots.
 
 Getting Started
