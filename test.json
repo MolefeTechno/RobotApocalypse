@@ -1,0 +1,9 @@
+ {
+       "id" : 3,
+        "name": "Rachie Sealanyane",
+        "age": 55,
+        "gender": "Female",
+        "latitude": 20280.01,
+        "longitude": 561212.12,
+        "contaminationReports": 0
+    }
