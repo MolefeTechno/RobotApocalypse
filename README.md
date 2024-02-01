@@ -1,6 +1,7 @@
 ROBOT apocalypse 
 
 Welcome to the Robot Apocalypse Survival System, the last hope for humanity! In the year 2050, the world is overrun by robots, and your mission is to develop a REST API to manage survivors, resources, and information crucial for human survival.
+
 Table of Contents
 1.	Introduction
 2.	Features
@@ -12,19 +13,23 @@ Table of Contents
 8.	Reports
 9.	Notes
 10.	Contributing
+
 Introduction
 The Robot Apocalypse Survival System is a Spring Boot application that utilizes Maven and an H2 database for testing purposes. It provides a REST API for managing survivors, updating their locations, flagging them as infected, and retrieving essential information about the current state of the apocalypse.
+
 Features
 •	Register survivors with name, age, gender, ID, last location, and an inventory of resources.
 •	Update survivor location with latitude and longitude.
 •	Flag survivors as infected based on reports from other survivors.
 •	Connect to the Robot CPU system to get a list of all robots and their known locations.
 •	Retrieve reports on the percentage of infected and non-infected survivors, lists of infected and non-infected survivors, and a list of robots.
+
 Getting Started
 Prerequisites
 Make sure you have the following installed on your machine:
 •	Java Development Kit (JDK)
 •	Maven
+
 Installation
 Clone the repository: 
 
